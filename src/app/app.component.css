@@ -1,0 +1,11 @@
+.fatal{
+    color: rgb(134, 98, 201);
+    font-weight: bold;
+    font: caption
+}
+
+.warning{
+    color: rgba(61, 21, 49, 0.075);
+    font-weight: bold;
+    font: caption
+}
